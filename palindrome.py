@@ -1,7 +1,5 @@
-str = input()
-backwards = str[::-1]
-
-if str == backwards:
-    print("It is not a palindrome")
-else:
-    print("It is a palindrome.")
+def prod(lst):
+    num = 1
+    for i in range(len(lst)):
+        num *= lst[i]
+    return num
