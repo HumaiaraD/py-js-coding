@@ -14,6 +14,9 @@ I realized that by doing the **same project in both**, I could:
 - Develop better problem-solving habits
 - Build muscle memory in both languages
 
+  ## Realisations: (work in progress)
+  As i am making more progress in Python i can see the differences of usability of each language. As in how one is more convenient for a certain project than the other.
+
 ---
 
 
