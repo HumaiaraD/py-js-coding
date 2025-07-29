@@ -17,6 +17,8 @@ I realized that by doing the **same project in both**, I could:
   ## Realisations: (work in progress)
   As i am making more progress in Python i can see the differences of usability of each language. As in how one is more convenient for a certain project than the other.
 
+  Also thinking of working in TS that vanilla JS. I think it is also a very good form of practice.
+
 ---
 
 
